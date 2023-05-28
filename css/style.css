@@ -55,7 +55,6 @@ body {
 /*header section*/
 .hero_area {
   height: 100vh;
-  background-color: #ebebeb;  
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
